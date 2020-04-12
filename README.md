@@ -1,11 +1,9 @@
 ![https://github.com/Rocketseat/semana-omnistack-11/blob/master/.github/bethehero.svg](https://github.com/Rocketseat/semana-omnistack-11/blob/master/.github/bethehero.svg)
 
 
-
-
-
-
 # 🦸‍♀️ Be The Hero
+
+![Be The Hero](https://github.com/bprofiro/assets/blob/master/bth2.png)
 
 
 ## 🚀 Sobre a aplicação:
