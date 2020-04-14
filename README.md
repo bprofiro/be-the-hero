@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/bprofiro/assets/blob/master/dev1.png"/>  
+  <img src="https://github.com/bprofiro/assets/blob/master/WhatsApp%20Image%202020-04-13%20at%2018.10.27.jpeg"/>  
 </p>
 
 <div>
