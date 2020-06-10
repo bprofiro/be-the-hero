@@ -21,7 +21,6 @@
 ## Tecnologias:
   O Ecoleta é um aplicação complexa e, por tanto, muitas ferramentas foram utilizadas para o seu desenvolvimento. Entre elas estão:
 
-- TypeScript
 - Node
 - React
   - React Icons
