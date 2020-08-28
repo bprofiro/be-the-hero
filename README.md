@@ -19,7 +19,7 @@
   A escolha dessa Stack se deve à quantidade de conhecimento que é possível aproveitar entre as tecnologias, por conta de todas elas utilizarem apenas uma linguagem: o JavaScript, além de serem extremamente modernas e poderosas com o uso de seu ecossistema.
 
 ## Tecnologias:
-  O Ecoleta é um aplicação complexa e, por tanto, muitas ferramentas foram utilizadas para o seu desenvolvimento. Entre elas estão:
+  O Be The Hero é um aplicação complexa e, por tanto, muitas ferramentas foram utilizadas para o seu desenvolvimento. Entre elas estão:
 
 - Node
 - React
